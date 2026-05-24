@@ -1572,7 +1572,7 @@
             "district_id": 1026,
             "lat": null,
             "long": null,
-            "created_at": "2019-08-09T03:33:09.000+07:00",
+            "created_at": "2026-02-17T00:00:00.000+07:00",
             "updated_at": "2026-02-17T00:00:00.000+07:00",
             "deleted_at": null
           }
@@ -15873,7 +15873,7 @@
       {
         "id": 2210,
         "name_th": "เขาคิชฌกูฏ",
-        "name_en": "Khoa Khitchakut",
+        "name_en": "Khao Khitchakut",
         "province_id": 13,
         "created_at": "2019-08-09T03:33:09.000+07:00",
         "updated_at": "2025-09-20T06:31:26.000+07:00",
@@ -23295,7 +23295,7 @@
       {
         "id": 3022,
         "name_th": "หนองบุญมาก",
-        "name_en": "Nong Bunnak",
+        "name_en": "Nong Bun Mak",
         "province_id": 19,
         "created_at": "2019-08-09T03:33:09.000+07:00",
         "updated_at": "2025-09-20T06:31:26.000+07:00",
@@ -26372,7 +26372,7 @@
       {
         "id": 3120,
         "name_th": "โนนดินแดง",
-        "name_en": "Din Daeng",
+        "name_en": "Non Din Daeng",
         "province_id": 20,
         "created_at": "2019-08-09T03:33:09.000+07:00",
         "updated_at": "2025-09-20T06:31:26.000+07:00",
@@ -43384,7 +43384,7 @@
       {
         "id": 4125,
         "name_th": "ประจักษ์ศิลปาคม",
-        "name_en": "rachak-sinlapakhom",
+        "name_en": "Prachaksinlapakhom",
         "province_id": 29,
         "created_at": "2019-08-09T03:33:09.000+07:00",
         "updated_at": "2025-09-20T06:31:26.000+07:00",
@@ -46137,7 +46137,7 @@
       {
         "id": 4405,
         "name_th": "เชียงยืน",
-        "name_en": "Kantharawichai",
+        "name_en": "Chiang Yuen",
         "province_id": 32,
         "created_at": "2019-08-09T03:33:09.000+07:00",
         "updated_at": "2025-09-20T06:31:26.000+07:00",
